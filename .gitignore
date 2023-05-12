@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Numeric Matrix Processor (Kotlin)/task/build/
+/Numeric Matrix Processor (Kotlin)/task/out/
+/Numeric Matrix Processor (Kotlin)/task/out/production/classes/
